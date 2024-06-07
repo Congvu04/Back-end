@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|d:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemutehy\\hanhkiemutehy\\entity\\conduct_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|solutionrelative:hanhkiemutehy\\entity\\conduct_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|d:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemutehy\\hanhkiemutehy\\entity\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|solutionrelative:hanhkiemutehy\\entity\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|d:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemutehy\\hanhkiemutehy\\entity\\student_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|solutionrelative:hanhkiemutehy\\entity\\student_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|d:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemutehy\\hanhkiemutehy\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|solutionrelative:hanhkiemutehy\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|d:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemutehy\\hanhkiemutehy\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|solutionrelative:hanhkiemutehy\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|d:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemutehy\\hanhkiemutehy\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|solutionrelative:hanhkiemutehy\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|d:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemutehy\\hanhkiemutehy\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|solutionrelative:hanhkiemutehy\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|d:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemutehy\\hanhkiemutehy\\repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|solutionrelative:hanhkiemutehy\\repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|d:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemutehy\\hanhkiemutehy\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|solutionrelative:hanhkiemutehy\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|d:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemutehy\\hanhkiemutehy\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|solutionrelative:hanhkiemutehy\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|d:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemutehy\\hanhkiemutehy\\repository\\classrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|solutionrelative:hanhkiemutehy\\repository\\classrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|d:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemutehy\\hanhkiemutehy\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|solutionrelative:hanhkiemutehy\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|d:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemutehy\\hanhkiemutehy\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|solutionrelative:hanhkiemutehy\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|d:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemutehy\\hanhkiemutehy\\repository\\iclassrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|solutionrelative:hanhkiemutehy\\repository\\iclassrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|d:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemutehy\\hanhkiemutehy\\migrations\\20240531114909_dbinitit01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DAA985-BADE-42F8-A7A4-4CC898B2A611}|hanhkiemUtehy\\hanhkiemUtehy.csproj|solutionrelative:hanhkiemutehy\\migrations\\20240531114909_dbinitit01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1408,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "hanhkiemUtehy\\Repository\\IStudentRepository.cs",
+              "ToolTip": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "hanhkiemUtehy\\Repository\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:53:16.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conduct_Form.cs",
+              "DocumentMoniker": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Entity\\Conduct_Form.cs",
+              "RelativeDocumentMoniker": "hanhkiemUtehy\\Entity\\Conduct_Form.cs",
+              "ToolTip": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Entity\\Conduct_Form.cs",
+              "RelativeToolTip": "hanhkiemUtehy\\Entity\\Conduct_Form.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAA9wDwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:45:55.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Entity\\Class.cs",
+              "RelativeDocumentMoniker": "hanhkiemUtehy\\Entity\\Class.cs",
+              "ToolTip": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Entity\\Class.cs",
+              "RelativeToolTip": "hanhkiemUtehy\\Entity\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:31:20.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "hanhkiemUtehy\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "hanhkiemUtehy\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwG4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:36:44.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "hanhkiemUtehy\\Repository\\StudentRepository.cs",
+              "ToolTip": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "hanhkiemUtehy\\Repository\\StudentRepository.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAmwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:46:19.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "hanhkiemUtehy\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "hanhkiemUtehy\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:55:09.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "hanhkiemUtehy\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "hanhkiemUtehy\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAwwGcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:54:34.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student_User.cs",
+              "DocumentMoniker": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Entity\\Student_User.cs",
+              "RelativeDocumentMoniker": "hanhkiemUtehy\\Entity\\Student_User.cs",
+              "ToolTip": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Entity\\Student_User.cs",
+              "RelativeToolTip": "hanhkiemUtehy\\Entity\\Student_User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:25:14.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "hanhkiemUtehy\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "hanhkiemUtehy\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:55:43.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "hanhkiemUtehy\\Controllers\\TeacherController.cs",
+              "ToolTip": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "hanhkiemUtehy\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAowBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T03:07:47.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Repository\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "hanhkiemUtehy\\Repository\\TeacherRepository.cs",
+              "ToolTip": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Repository\\TeacherRepository.cs",
+              "RelativeToolTip": "hanhkiemUtehy\\Repository\\TeacherRepository.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowCcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:54:30.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "hanhkiemUtehy\\Controllers\\ClassController.cs",
+              "ToolTip": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "hanhkiemUtehy\\Controllers\\ClassController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:45:56.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassRepository.cs",
+              "DocumentMoniker": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Repository\\ClassRepository.cs",
+              "RelativeDocumentMoniker": "hanhkiemUtehy\\Repository\\ClassRepository.cs",
+              "ToolTip": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Repository\\ClassRepository.cs",
+              "RelativeToolTip": "hanhkiemUtehy\\Repository\\ClassRepository.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswCwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:45:56.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IClassRepository.cs",
+              "DocumentMoniker": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Repository\\IClassRepository.cs",
+              "RelativeDocumentMoniker": "hanhkiemUtehy\\Repository\\IClassRepository.cs",
+              "ToolTip": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Repository\\IClassRepository.cs",
+              "RelativeToolTip": "hanhkiemUtehy\\Repository\\IClassRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:45:56.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240531114909_DbInitit01.cs",
+              "DocumentMoniker": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Migrations\\20240531114909_DbInitit01.cs",
+              "RelativeDocumentMoniker": "hanhkiemUtehy\\Migrations\\20240531114909_DbInitit01.cs",
+              "ToolTip": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\Migrations\\20240531114909_DbInitit01.cs",
+              "RelativeToolTip": "hanhkiemUtehy\\Migrations\\20240531114909_DbInitit01.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:49:09.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
