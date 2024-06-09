@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\hanhkiemUtehy.csproj": {}
+    "C:\\Users\\kienDev2003\\Desktop\\Back-end\\Back-end\\hanhkiemUtehy\\hanhkiemUtehy.csproj": {}
   },
   "projects": {
-    "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\hanhkiemUtehy.csproj": {
+    "C:\\Users\\kienDev2003\\Desktop\\Back-end\\Back-end\\hanhkiemUtehy\\hanhkiemUtehy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\hanhkiemUtehy.csproj",
+        "projectUniqueName": "C:\\Users\\kienDev2003\\Desktop\\Back-end\\Back-end\\hanhkiemUtehy\\hanhkiemUtehy.csproj",
         "projectName": "hanhkiemUtehy",
-        "projectPath": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\hanhkiemUtehy.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\hanhkiem\\doanhanhkiem\\backend\\hanhkiemUtehy\\hanhkiemUtehy\\obj\\",
+        "projectPath": "C:\\Users\\kienDev2003\\Desktop\\Back-end\\Back-end\\hanhkiemUtehy\\hanhkiemUtehy.csproj",
+        "packagesPath": "C:\\Users\\kienDev2003\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kienDev2003\\Desktop\\Back-end\\Back-end\\hanhkiemUtehy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kienDev2003\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,6 +85,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -93,7 +111,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

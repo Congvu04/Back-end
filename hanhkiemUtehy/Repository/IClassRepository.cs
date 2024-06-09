@@ -15,6 +15,7 @@ namespace hanhkiemUtehy.Repository
         Task<Class> ClassUpdateStatus(long class_id, int status_id);
         Task<ClassModel> ClassDetail(long teacher_id);
         Task<ClassModel> ClassDetailAdmin(long class_id);
+        Task<List<ClassModel>> ClassListFilter(string semester);
         Task<bool> ClassSetOfficer(long student_id, bool is_officer);
         Task<Conduct_Form> UpdateForm(Conduct_Form model);
         Task<List<Student_User>> AddStudentToClass(List<Student_User> model);

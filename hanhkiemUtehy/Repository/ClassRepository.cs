@@ -1,6 +1,7 @@
 ﻿using hanhkiemUtehy.Entity;
 using hanhkiemUtehy.Extensions;
 using hanhkiemUtehy.Model;
+using Microsoft.Data.SqlClient;
 
 namespace hanhkiemUtehy.Repository
 {
@@ -67,7 +68,35 @@ namespace hanhkiemUtehy.Repository
                 }
             }
             return response;
-        } 
+        }
+
+        public async Task<List<ClassModel>> ClassListFilter(string semester)
+        {
+            List<ClassModel> response = new List<ClassModel>();
+            IEnumerable<ClassModel> listItem = from a in _context.Class
+                                               where !a.is_delete && a.semester == semester
+                                               select new ClassModel
+                                               {
+                                                   name = a.name,
+                                                   status = a.status,
+                                                   code = a.code,
+                                                   id = a.id,
+                                                   teacher_id = a.teacher_id,
+                                                   conduct_Forms = _context.Conduct_Form.Where(x => x.class_id == a.id).ToList(),
+                                               };
+            response = listItem.OrderByDescending(r => r.id).ToList();
+            List<long> list_teacher_id = response.Select(x => x.teacher_id).ToList();
+            var list_teacher = _context.Teacher_User.Where(x => list_teacher_id.Contains(x.id)).ToList();
+            foreach (var item in response)
+            {
+                var teacher = list_teacher.FirstOrDefault(x => x.id == item.id);
+                if (teacher != null)
+                {
+                    item.teacher_name = teacher.full_name;
+                }
+            }
+            return response;
+        }
         public async Task<List<ClassModel>> ClassListbyTeacherID(long teacher_id)
         {
             List<ClassModel> response = new List<ClassModel>();

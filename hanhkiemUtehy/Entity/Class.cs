@@ -8,6 +8,8 @@ namespace hanhkiemUtehy.Entity
         public string name { get; set; } = string.Empty;
         public string code { get; set; } = string.Empty;
         public long teacher_id { get; set; } = 0;
+
+        public string semester { get; set; } = string.Empty;
         public int status { get; set; } = 0; // 0 la moi khoi tao, 1 la da cham diem, 2 la can cham lai
     }
 }

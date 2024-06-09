@@ -109,7 +109,25 @@ namespace hanhkiemUtehy.Controllers
             {
                 return this.RouteToInternalServerError();
             }
-        } 
+        }
+        [HttpGet("listFilter")]
+        public async Task<IActionResult> ClassListFilter(string semester)
+        {
+            try
+            {
+                var response = await this._classRepository.ClassListFilter(semester);
+                return Ok(new ResponseSingleContentModel<List<ClassModel>>
+                {
+                    StatusCode = 200,
+                    Message = "",
+                    Data = response
+                });
+            }
+            catch (Exception)
+            {
+                return this.RouteToInternalServerError();
+            }
+        }
         [HttpGet("list-by-teacher-id")]
         public async Task<IActionResult> ClassListbyTeacherID(long teacher_id)
         {
